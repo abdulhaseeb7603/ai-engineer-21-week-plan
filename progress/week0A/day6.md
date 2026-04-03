@@ -1,8 +1,8 @@
-# Week 0 - Day 6
+# Week 0A - Day 6
 
 **Phase:** Phase 0: Math & Python Foundations
-**Task:** Python NumPy crash course: matrix ops, broadcasting, reshaping, dot product + gradient by hand
-**Resource:** freeCodeCamp NumPy
+**Task:** Khan Academy matrix practice: multiply matrices by hand until natural
+**Resource:** Khan Academy
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

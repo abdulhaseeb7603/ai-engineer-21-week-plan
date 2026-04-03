@@ -1,7 +1,7 @@
-# Week 0 - Day 1
+# Week 0A - Day 4
 
 **Phase:** Phase 0: Math & Python Foundations
-**Task:** 3B1B Linear Algebra Ch 1-5: Vectors, linear combinations, spans, basis vectors
+**Task:** 3B1B Linear Algebra Ch 10-13: Cross products, Cramers rule, change of basis
 **Resource:** 3Blue1Brown
 **Target Time:** 2.5h
 **Date:**

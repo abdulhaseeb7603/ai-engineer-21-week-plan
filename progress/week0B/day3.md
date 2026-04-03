@@ -1,7 +1,7 @@
-# Week 0 - Day 2
+# Week 0B - Day 3
 
 **Phase:** Phase 0: Math & Python Foundations
-**Task:** 3B1B Linear Algebra Ch 6-10: Matrix multiplication, determinants, dot/cross products
+**Task:** 3B1B Calculus Ch 7-9: Limits, integration, higher-order derivatives
 **Resource:** 3Blue1Brown
 **Target Time:** 2.5h
 **Date:**

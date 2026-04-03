@@ -1,16 +1,16 @@
-# AI Engineer 21-Week Learning Plan
+# AI Engineer 22-Week Learning Plan
 
-**21-Week Roadmap | 2.5 Hours/Day | 6 Days/Week | ~315 Total Hours**
+**22-Week Roadmap | 2.5 Hours/Day | 6 Days/Week | ~330 Total Hours**
 
 Based on real 2026 job postings from LinkedIn, Indeed, EY, and ZipRecruiter.
 Timeline adjusted from original 12-week plan after researching actual course durations.
-Includes a math foundations week for beginners with no linear algebra/calculus background.
+Includes 2 math foundations weeks for beginners with no linear algebra/calculus background.
 
 ## Progress Overview
 
 | Weeks | Phase | Focus | Hours | Status |
 |-------|-------|-------|-------|--------|
-| 0 | Math Foundations | Linear algebra, calculus, Python/NumPy basics | ~15h | Not Started |
+| 0A-0B | Math Foundations | Linear algebra, calculus, Python/NumPy basics | ~30h | Not Started |
 | 1-3 | Transformer Internals | Attention, architecture, Karpathy course | ~38h | Not Started |
 | 4-7 | Production RAG | Chunking, hybrid search, reranking, eval | ~55h | Not Started |
 | 8-11 | LLM Fine-Tuning | LoRA, QLoRA, dataset curation, evaluation | ~50h | Not Started |
@@ -18,28 +18,39 @@ Includes a math foundations week for beginners with no linear algebra/calculus b
 | 15-17 | LLMOps & Evaluation | Langfuse, RAGAS, testing, monitoring, K8s | ~55h | Not Started |
 | 18-20 | Capstone Project | Build, deploy, launch a production AI product | ~50h | Not Started |
 
-> **Start applying for jobs at Week 12** (after RAG + Fine-Tuning). Don't wait until Week 20.
+> **Start applying for jobs at Week 13** (after RAG + Fine-Tuning). Don't wait until Week 20.
 
 ---
 
-## Phase 0: Math & Python Foundations (Week 0) ~15h
+## Phase 0: Math & Python Foundations (Weeks 0A-0B) ~30h
 
 **Goal:** Build just enough math intuition to follow Karpathy's lectures without constantly Googling. This is NOT a full math course -- it's targeted prep for the specific concepts you'll encounter in Weeks 1-3.
 
-### Week 0: Math for Deep Learning
-- [3Blue1Brown - Essence of Linear Algebra (~3.5h)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [3Blue1Brown - Essence of Calculus (~3h)](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+### Week 0A: Linear Algebra for Deep Learning
+- [3Blue1Brown - Essence of Linear Algebra (2h 34m total, 16 videos)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan Academy - Matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices)
+
+| Day | Task | Hours | Done |
+|-----|------|-------|------|
+| 1 | 3B1B Linear Algebra Ch 1-3: Vectors, linear combinations, spans, linear transformations. Watch, pause, rewatch confusing parts. Take notes. | 2.5h | |
+| 2 | 3B1B Linear Algebra Ch 4-6: Matrix multiplication as composition, 3D transformations, determinants. | 2.5h | |
+| 3 | 3B1B Linear Algebra Ch 7-9: Inverse matrices, column/null space, nonsquare matrices, dot products. | 2.5h | |
+| 4 | 3B1B Linear Algebra Ch 10-13: Cross products, Cramer's rule, change of basis. | 2.5h | |
+| 5 | 3B1B Linear Algebra Ch 14-16: Eigenvectors, eigenvalues, abstract vector spaces. | 2.5h | |
+| 6 | Khan Academy matrix practice: multiply matrices by hand (2x2, 3x3). Practice until it feels natural. | 2.5h | |
+
+### Week 0B: Calculus + Python/NumPy for Deep Learning
+- [3Blue1Brown - Essence of Calculus (3h total, 12 videos)](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Python NumPy Tutorial (freeCodeCamp)](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 | Day | Task | Hours | Done |
 |-----|------|-------|------|
-| 1 | 3B1B Essence of Linear Algebra: Ch 1-5. Vectors, linear combinations, spans, basis vectors. | 2.5h | |
-| 2 | 3B1B Essence of Linear Algebra: Ch 6-10. Matrix multiplication, determinants, dot/cross products. | 2.5h | |
-| 3 | 3B1B Essence of Linear Algebra: Ch 11-16. Eigenvectors, abstract vector spaces. Khan Academy matrix practice. | 2.5h | |
-| 4 | 3B1B Essence of Calculus: Ch 1-5. Derivatives, chain rule, product rule, exponentials. | 2.5h | |
-| 5 | 3B1B Essence of Calculus: Ch 6-11. Integration, higher-order derivatives, Taylor series. | 2.5h | |
-| 6 | Python NumPy crash course. Practice: matrix ops, broadcasting, reshaping. Write a simple dot product + gradient by hand. | 2.5h | |
+| 1 | 3B1B Calculus Ch 1-3: The essence of calculus, paradox of the derivative, derivative formulas through geometry. | 2.5h | |
+| 2 | 3B1B Calculus Ch 4-6: Visualizing the chain rule, product rule, derivatives of exponentials. The chain rule is THE most important part -- this is backpropagation. | 2.5h | |
+| 3 | 3B1B Calculus Ch 7-9: Limits, integration, higher-order derivatives. | 2.5h | |
+| 4 | 3B1B Calculus Ch 10-12: Taylor series, what they don't teach in calculus. Rewatch chain rule (Ch 4) if needed. | 2.5h | |
+| 5 | Python NumPy crash course: arrays, matrix ops, broadcasting, reshaping, indexing, random. | 2.5h | |
+| 6 | Practice day: multiply matrices in NumPy, compute a derivative by hand, implement a simple gradient descent in 10 lines of Python. | 2.5h | |
 
 **What you need to remember for Karpathy's course:**
 - **Vectors & matrices**: What they are, how to multiply them (this is ALL of neural networks)

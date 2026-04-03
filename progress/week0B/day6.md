@@ -1,8 +1,8 @@
-# Week 0 - Day 4
+# Week 0B - Day 6
 
 **Phase:** Phase 0: Math & Python Foundations
-**Task:** 3B1B Calculus Ch 1-5: Derivatives, chain rule, product rule, exponentials
-**Resource:** 3Blue1Brown
+**Task:** Practice: matrices in NumPy, derivative by hand, simple gradient descent in Python
+**Resource:** Practice
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**
