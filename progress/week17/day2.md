@@ -1,8 +1,8 @@
 # Week 17 - Day 2
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** freeCodeCamp Docker + K8s (4h) - Docker sections
-**Resource:** freeCodeCamp
+**Phase:** Phase 4: Agent Systems
+**Task:** Test multi-agent system end-to-end. Fix edge cases.
+**Resource:** LangGraph Documentation (https://langchain-ai.github.io/langgraph/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 15 - Day 5
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** LLM-as-judge: Langfuse evaluators for hallucination, relevance, toxicity
-**Resource:** Langfuse
+**Phase:** Phase 4: Agent Systems
+**Task:** Multi-step planning - Build an agent that breaks complex queries into sub-tasks.
+**Resource:** Anthropic MCP Documentation (https://modelcontextprotocol.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 14 - Day 5
 
 **Phase:** Phase 4: Agent Systems
-**Task:** Write up agent project, document architecture and failure modes
-**Resource:** Documentation
+**Task:** Extend your LangGraph agent - add tool use: web search API, calculator.
+**Resource:** DeepLearning.AI - AI Agents in LangGraph (https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

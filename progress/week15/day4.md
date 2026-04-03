@@ -1,8 +1,8 @@
 # Week 15 - Day 4
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Implement automated RAGAS evaluation on golden test set
-**Resource:** RAGAS docs
+**Phase:** Phase 4: Agent Systems
+**Task:** Connect your MCP server to your LangGraph agent. Debug the integration.
+**Resource:** Anthropic MCP Documentation (https://modelcontextprotocol.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

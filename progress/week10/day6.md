@@ -1,8 +1,8 @@
 # Week 10 - Day 6
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Study HF PEFT docs - adapter types beyond LoRA
-**Resource:** HF PEFT docs
+**Task:** freeCodeCamp: Hands-on fine-tuning walkthrough (part 2). Continue watching.
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

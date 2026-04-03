@@ -1,8 +1,8 @@
 # Week 16 - Day 2
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** DLAI eval course - systematic debugging
-**Resource:** DeepLearning.AI
+**Phase:** Phase 4: Agent Systems
+**Task:** Build a simple agent in PydanticAI. Compare the developer experience.
+**Resource:** PydanticAI Documentation (https://ai.pydantic.dev)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 14 - Day 2
 
 **Phase:** Phase 4: Agent Systems
-**Task:** Add persistent memory with vector store across conversations
-**Resource:** Implementation
+**Task:** Implement a basic ReAct loop manually in Python (no framework). Get it working with a simple task.
+**Resource:** DeepLearning.AI - AI Agents in LangGraph (https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

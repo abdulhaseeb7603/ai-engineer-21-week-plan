@@ -1,8 +1,8 @@
 # Week 20 - Day 2
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Record demo video showing the product in action
-**Resource:** Capstone Polish
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** Docker hands-on - Write a Dockerfile for your RAG/agent app. Get it building.
+**Resource:** freeCodeCamp Docker + K8s Course (https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

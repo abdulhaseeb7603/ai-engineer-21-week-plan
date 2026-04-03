@@ -1,8 +1,8 @@
 # Week 6 - Day 2
 
 **Phase:** Phase 2: Production RAG
-**Task:** Build complete RAG pipeline with Chroma/Qdrant
-**Resource:** Implementation
+**Task:** RAG Course: Module 4 - Transformer architecture review, LLM sampling strategies.
+**Resource:** Best Chunking Strategies - Firecrawl (https://www.firecrawl.dev/blog/best-chunking-strategies-rag)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 18 - Day 5
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation (part 3) - integrate fine-tuned model
-**Resource:** Capstone Build
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** LLM-as-judge: Set up Langfuse evaluators for hallucination, relevance, toxicity.
+**Resource:** Langfuse Documentation (https://langfuse.com/guides)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

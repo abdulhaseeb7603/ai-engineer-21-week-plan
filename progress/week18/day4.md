@@ -1,8 +1,8 @@
 # Week 18 - Day 4
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation (part 2)
-**Resource:** Capstone Build
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** Implement automated evaluation pipeline with RAGAS metrics.
+**Resource:** Langfuse Documentation (https://langfuse.com/guides)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

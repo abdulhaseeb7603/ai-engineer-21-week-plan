@@ -1,8 +1,8 @@
 # Week 11 - Day 2
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Optimize inference with vLLM or TGI, benchmark
-**Resource:** Deployment
+**Task:** freeCodeCamp: Advanced topics, evaluation, deployment. Complete remaining video sections.
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

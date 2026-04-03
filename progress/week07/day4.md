@@ -1,8 +1,8 @@
 # Week 7 - Day 4
 
 **Phase:** Phase 2: Production RAG
-**Task:** Query routing + error handling for retrieval failures
-**Resource:** Implementation
+**Task:** Add cross-encoder reranking (ms-marco-MiniLM-L-6-v2). Measure precision improvement.
+**Resource:** RAGAS Documentation (https://docs.ragas.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

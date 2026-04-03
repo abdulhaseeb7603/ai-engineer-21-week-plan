@@ -1,8 +1,8 @@
 # Week 18 - Day 6
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation (part 4) - connect all components
-**Resource:** Capstone Build
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** Build cost-per-request dashboard. Track token usage, latency p50/p95/p99, error rates.
+**Resource:** Langfuse Documentation (https://langfuse.com/guides)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

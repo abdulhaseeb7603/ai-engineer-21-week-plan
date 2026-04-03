@@ -1,8 +1,8 @@
 # Week 16 - Day 1
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** A/B testing for prompts - two variants, measure performance
-**Resource:** Evaluation
+**Phase:** Phase 4: Agent Systems
+**Task:** Study PydanticAI documentation. Understand how it differs from LangGraph.
+**Resource:** PydanticAI Documentation (https://ai.pydantic.dev)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

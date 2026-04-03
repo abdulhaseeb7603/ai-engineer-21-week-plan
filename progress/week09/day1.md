@@ -1,8 +1,8 @@
 # Week 9 - Day 1
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** freeCodeCamp: RLHF and DPO concepts, alignment methods
-**Resource:** freeCodeCamp
+**Phase:** Phase 2: Production RAG
+**Task:** Langfuse tracing deep dive - Track latency, token usage, cost per query.
+**Resource:** Langfuse RAG Eval Guide (https://langfuse.com/guides/cookbook/evaluation_of_rag_with_ragas)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

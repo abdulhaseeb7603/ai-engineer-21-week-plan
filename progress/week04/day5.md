@@ -1,8 +1,8 @@
 # Week 4 - Day 5
 
-**Phase:** Phase 2: Production RAG
-**Task:** RAG Course Module 3 - ANN algorithms, vector databases
-**Resource:** DeepLearning.AI Coursera
+**Phase:** Phase 1: Transformer Internals & PyTorch
+**Task:** Hugging Face continued - Try different models, understand tokenizers, pipeline API.
+**Resource:** Karpathy - GPT Tokenizer (https://youtube.com/watch?v=zduSFxRajkE)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

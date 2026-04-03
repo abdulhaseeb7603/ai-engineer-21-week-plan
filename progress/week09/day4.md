@@ -1,8 +1,8 @@
 # Week 9 - Day 4
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Dataset prep continued - format data, quality review
-**Resource:** Dataset curation
+**Phase:** Phase 2: Production RAG
+**Task:** Implement auto-merging retrieval. Compare retrieval strategies with RAGAS.
+**Resource:** Langfuse RAG Eval Guide (https://langfuse.com/guides/cookbook/evaluation_of_rag_with_ragas)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

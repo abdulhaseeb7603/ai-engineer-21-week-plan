@@ -1,8 +1,8 @@
 # Week 4 - Day 6
 
-**Phase:** Phase 2: Production RAG
-**Task:** RAG Course Module 3 continued - Chunking, reranking
-**Resource:** DeepLearning.AI Coursera
+**Phase:** Phase 1: Transformer Internals & PyTorch
+**Task:** Final consolidation - Rewrite attention mechanism from memory. Draw the full transformer architecture on paper and explain every component.
+**Resource:** Karpathy - GPT Tokenizer (https://youtube.com/watch?v=zduSFxRajkE)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

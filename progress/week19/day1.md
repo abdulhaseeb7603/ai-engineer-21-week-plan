@@ -1,8 +1,8 @@
 # Week 19 - Day 1
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Build evaluation harness - golden test set for capstone
-**Resource:** Capstone Eval
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** A/B testing for prompts - Set up two prompt variants, measure which performs better.
+**Resource:** MLOps Zoomcamp Module 1 (https://github.com/DataTalksClub/mlops-zoomcamp)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

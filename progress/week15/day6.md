@@ -1,8 +1,8 @@
 # Week 15 - Day 6
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Build cost-per-request dashboard - token usage, latency p50/p95/p99
-**Resource:** Monitoring
+**Phase:** Phase 4: Agent Systems
+**Task:** Add Langfuse observability to your agent. Visualize decision points and trace failures.
+**Resource:** Anthropic MCP Documentation (https://modelcontextprotocol.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 13 - Day 2
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Add Langfuse observability to agent, visualize decision points
-**Resource:** Langfuse
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Deploy fine-tuned model with a simple FastAPI endpoint. Get basic inference working.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

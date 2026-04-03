@@ -1,8 +1,8 @@
 # Week 15 - Day 3
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Build golden test set of 100 examples for RAG system
-**Resource:** Evaluation
+**Phase:** Phase 4: Agent Systems
+**Task:** Build a simple MCP server from scratch (e.g., a file reader or database query tool).
+**Resource:** Anthropic MCP Documentation (https://modelcontextprotocol.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

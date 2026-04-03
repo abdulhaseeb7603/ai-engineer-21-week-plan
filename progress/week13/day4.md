@@ -1,8 +1,8 @@
 # Week 13 - Day 4
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Implement guardrails: input validation, output filtering, injection detection
-**Resource:** Security
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Push model to Hugging Face Hub. Write a proper model card with eval results.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 17 - Day 5
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Concept drift detection for RAG systems
-**Resource:** Monitoring
+**Phase:** Phase 4: Agent Systems
+**Task:** Add cost tracking per conversation. Monitor token usage patterns.
+**Resource:** LangGraph Documentation (https://langchain-ai.github.io/langgraph/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

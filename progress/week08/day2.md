@@ -1,8 +1,8 @@
 # Week 8 - Day 2
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** freeCodeCamp: PEFT foundations, LoRA math
-**Resource:** freeCodeCamp
+**Phase:** Phase 2: Production RAG
+**Task:** Set up RAGAS evaluation. Install, configure, understand the metrics.
+**Resource:** RAGAS Documentation (https://docs.ragas.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

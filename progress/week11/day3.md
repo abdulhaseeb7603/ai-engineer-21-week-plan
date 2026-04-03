@@ -1,8 +1,8 @@
 # Week 11 - Day 3
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Push model to HF Hub with proper model card
-**Resource:** Hugging Face
+**Task:** freeCodeCamp: Review - rewatch any confusing parts. Read HF PEFT docs alongside.
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

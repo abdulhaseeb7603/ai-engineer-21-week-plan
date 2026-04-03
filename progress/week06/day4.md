@@ -1,8 +1,8 @@
 # Week 6 - Day 4
 
 **Phase:** Phase 2: Production RAG
-**Task:** Set up RAGAS evaluation metrics
-**Resource:** RAGAS docs
+**Task:** RAG Course: Module 5 - RAG evaluation strategies, logging, monitoring.
+**Resource:** Best Chunking Strategies - Firecrawl (https://www.firecrawl.dev/blog/best-chunking-strategies-rag)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

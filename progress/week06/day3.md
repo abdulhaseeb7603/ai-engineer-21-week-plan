@@ -1,8 +1,8 @@
 # Week 6 - Day 3
 
 **Phase:** Phase 2: Production RAG
-**Task:** Add metadata filtering, test with different document types
-**Resource:** Implementation
+**Task:** RAG Course: Module 4 continued - Prompt engineering for RAG. Complete exercises.
+**Resource:** Best Chunking Strategies - Firecrawl (https://www.firecrawl.dev/blog/best-chunking-strategies-rag)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 12 - Day 1
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Study ReAct pattern, implement basic ReAct loop manually
-**Resource:** From scratch
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Fine-tune Llama 3 8B with LoRA using trl + Unsloth. Follow a tutorial step by step.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

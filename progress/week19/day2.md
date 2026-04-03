@@ -1,8 +1,8 @@
 # Week 19 - Day 2
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Run RAGAS metrics, Langfuse tracing, cost tracking
-**Resource:** Capstone Eval
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** DLAI "Building & Evaluating Advanced RAG" eval sections - Systematic debugging: is the failure in retrieval, prompt, or generation?
+**Resource:** MLOps Zoomcamp Module 1 (https://github.com/DataTalksClub/mlops-zoomcamp)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

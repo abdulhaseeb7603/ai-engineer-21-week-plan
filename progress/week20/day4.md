@@ -1,8 +1,8 @@
 # Week 20 - Day 4
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Blog post continued, create Twitter/X thread version
-**Resource:** Capstone Launch
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** freeCodeCamp Docker + K8s course - Watch Kubernetes introduction sections.
+**Resource:** freeCodeCamp Docker + K8s Course (https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

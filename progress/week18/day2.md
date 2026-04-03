@@ -1,8 +1,8 @@
 # Week 18 - Day 2
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Set up project structure, CI/CD pipeline, monitoring
-**Resource:** Capstone Build
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** Langfuse setup continued - Troubleshoot issues. Connect to your RAG project.
+**Resource:** Langfuse Documentation (https://langfuse.com/guides)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

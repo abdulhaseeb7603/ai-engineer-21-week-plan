@@ -1,8 +1,8 @@
 # Week 12 - Day 2
 
-**Phase:** Phase 4: Agent Systems
-**Task:** DLAI LangGraph course (1h32m) - watch all lessons + code along
-**Resource:** DeepLearning.AI
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Monitor training - Watch loss curves, debug if needed. Let training complete.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

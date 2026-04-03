@@ -1,8 +1,8 @@
 # Week 2 - Day 4
 
-**Phase:** Phase 1: Transformer Internals
-**Task:** Karpathy WaveNet (56m) - Deeper network, torch.nn internals
-**Resource:** Karpathy Zero to Hero
+**Phase:** Phase 1: Transformer Internals & PyTorch
+**Task:** Makemore pt3 - Watch second half. Batch Normalization. Code along.
+**Resource:** Karpathy - Zero to Hero (https://karpathy.ai/zero-to-hero.html)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

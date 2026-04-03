@@ -1,8 +1,8 @@
 # Week 18 - Day 3
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation (part 1)
-**Resource:** Capstone Build
+**Phase:** Phase 5: LLMOps & Evaluation
+**Task:** Build golden test set of 100 examples for your RAG system (expand from Phase 2 set).
+**Resource:** Langfuse Documentation (https://langfuse.com/guides)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

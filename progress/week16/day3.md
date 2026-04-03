@@ -1,8 +1,8 @@
 # Week 16 - Day 3
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** MLOps Zoomcamp Module 1 (part 1) - MLOps lifecycle
-**Resource:** MLOps Zoomcamp
+**Phase:** Phase 4: Agent Systems
+**Task:** Implement guardrails: input validation and output filtering.
+**Resource:** PydanticAI Documentation (https://ai.pydantic.dev)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

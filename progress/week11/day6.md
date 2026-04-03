@@ -1,8 +1,8 @@
 # Week 11 - Day 6
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Review Phases 1-3, start applying to jobs
-**Resource:** Review + Job search
+**Task:** Dataset preparation - Filter and format 200-500 instruction-response pairs from existing data. Add 50-100 custom pairs for your domain.
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

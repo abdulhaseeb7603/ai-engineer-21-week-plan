@@ -1,8 +1,8 @@
 # Week 8 - Day 5
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** freeCodeCamp: Hands-on fine-tuning walkthrough (part 1)
-**Resource:** freeCodeCamp
+**Phase:** Phase 2: Production RAG
+**Task:** Experiment with different chunking strategies and measure RAGAS score impact.
+**Resource:** RAGAS Documentation (https://docs.ragas.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

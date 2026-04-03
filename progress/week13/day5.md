@@ -1,8 +1,8 @@
 # Week 13 - Day 5
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Test guardrails with adversarial inputs, document results
-**Resource:** Testing
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Write up fine-tuning project. Document dataset, training process, eval results, RAG comparison.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

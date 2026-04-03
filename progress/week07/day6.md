@@ -1,8 +1,8 @@
 # Week 7 - Day 6
 
 **Phase:** Phase 2: Production RAG
-**Task:** Polish RAG project README with architecture diagrams, push to GitHub
-**Resource:** Documentation
+**Task:** Build your RAG pipeline - connect chunking + vector DB + retrieval + LLM generation.
+**Resource:** RAGAS Documentation (https://docs.ragas.io)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

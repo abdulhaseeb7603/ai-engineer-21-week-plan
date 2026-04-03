@@ -1,8 +1,8 @@
 # Week 1 - Day 1
 
-**Phase:** Phase 1: Transformer Internals
-**Task:** Karpathy Micrograd (first half) - backprop basics
-**Resource:** Karpathy Zero to Hero
+**Phase:** Phase 1: Transformer Internals & PyTorch
+**Task:** Micrograd (2h30m video) - Watch first half, pause and take notes. Don't code yet.
+**Resource:** Karpathy - Zero to Hero (https://karpathy.ai/zero-to-hero.html)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

@@ -1,8 +1,8 @@
 # Week 1 - Day 3
 
-**Phase:** Phase 1: Transformer Internals
-**Task:** Karpathy Makemore pt1 (1h57m) - Bigram model, torch.Tensor
-**Resource:** Karpathy Zero to Hero
+**Phase:** Phase 1: Transformer Internals & PyTorch
+**Task:** Micrograd - Now code along from scratch. Build autograd engine yourself.
+**Resource:** Karpathy - Zero to Hero (https://karpathy.ai/zero-to-hero.html)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

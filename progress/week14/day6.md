@@ -1,8 +1,8 @@
 # Week 14 - Day 6
 
 **Phase:** Phase 4: Agent Systems
-**Task:** Polish agent project README with diagram, push to GitHub
-**Resource:** Documentation
+**Task:** Handle tool-call failures and retries. Test edge cases. What happens when tools fail?
+**Resource:** DeepLearning.AI - AI Agents in LangGraph (https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

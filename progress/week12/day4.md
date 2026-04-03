@@ -1,8 +1,8 @@
 # Week 12 - Day 4
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Add tool use: web search, code exec, calculator + failure handling
-**Resource:** Implementation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Hyperparameter experiments - Try LoRA rank 8 vs 16 vs 32. Document impact.
+**Resource:** Hugging Face PEFT Docs (https://huggingface.co/docs/peft)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

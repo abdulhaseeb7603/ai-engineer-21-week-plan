@@ -1,8 +1,8 @@
 # Week 10 - Day 2
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Hyperparameter experiments - LoRA ranks (8, 16, 32)
-**Resource:** Experimentation
+**Task:** freeCodeCamp: PEFT foundations. Why full fine-tuning is overkill. LoRA math (low-rank decomposition).
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**

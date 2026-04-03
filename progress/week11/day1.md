@@ -1,8 +1,8 @@
 # Week 11 - Day 1
 
 **Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Deploy fine-tuned model with FastAPI endpoint
-**Resource:** Deployment
+**Task:** freeCodeCamp: RLHF and DPO concepts. Alignment methods. When to use DPO over SFT.
+**Resource:** freeCodeCamp 12h Fine-Tuning Course (https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/)
 **Target Time:** 2.5h
 **Date:**
 **Actual Time Spent:**
