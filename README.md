@@ -1,14 +1,16 @@
-# AI Engineer 20-Week Learning Plan
+# AI Engineer 21-Week Learning Plan
 
-**20-Week Roadmap | 2.5 Hours/Day | 6 Days/Week | ~300 Total Hours**
+**21-Week Roadmap | 2.5 Hours/Day | 6 Days/Week | ~315 Total Hours**
 
 Based on real 2026 job postings from LinkedIn, Indeed, EY, and ZipRecruiter.
 Timeline adjusted from original 12-week plan after researching actual course durations.
+Includes a math foundations week for beginners with no linear algebra/calculus background.
 
 ## Progress Overview
 
 | Weeks | Phase | Focus | Hours | Status |
 |-------|-------|-------|-------|--------|
+| 0 | Math Foundations | Linear algebra, calculus, Python/NumPy basics | ~15h | Not Started |
 | 1-3 | Transformer Internals | Attention, architecture, Karpathy course | ~38h | Not Started |
 | 4-7 | Production RAG | Chunking, hybrid search, reranking, eval | ~55h | Not Started |
 | 8-11 | LLM Fine-Tuning | LoRA, QLoRA, dataset curation, evaluation | ~50h | Not Started |
@@ -16,7 +18,38 @@ Timeline adjusted from original 12-week plan after researching actual course dur
 | 15-17 | LLMOps & Evaluation | Langfuse, RAGAS, testing, monitoring, K8s | ~55h | Not Started |
 | 18-20 | Capstone Project | Build, deploy, launch a production AI product | ~50h | Not Started |
 
-> **Start applying for jobs at Week 11** (after RAG + Fine-Tuning). Don't wait until Week 20.
+> **Start applying for jobs at Week 12** (after RAG + Fine-Tuning). Don't wait until Week 20.
+
+---
+
+## Phase 0: Math & Python Foundations (Week 0) ~15h
+
+**Goal:** Build just enough math intuition to follow Karpathy's lectures without constantly Googling. This is NOT a full math course -- it's targeted prep for the specific concepts you'll encounter in Weeks 1-3.
+
+### Week 0: Math for Deep Learning
+- [3Blue1Brown - Essence of Linear Algebra (~3.5h)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [3Blue1Brown - Essence of Calculus (~3h)](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Khan Academy - Matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices)
+- [Python NumPy Tutorial (freeCodeCamp)](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+
+| Day | Task | Hours | Done |
+|-----|------|-------|------|
+| 1 | 3B1B Essence of Linear Algebra: Ch 1-5. Vectors, linear combinations, spans, basis vectors. | 2.5h | |
+| 2 | 3B1B Essence of Linear Algebra: Ch 6-10. Matrix multiplication, determinants, dot/cross products. | 2.5h | |
+| 3 | 3B1B Essence of Linear Algebra: Ch 11-16. Eigenvectors, abstract vector spaces. Khan Academy matrix practice. | 2.5h | |
+| 4 | 3B1B Essence of Calculus: Ch 1-5. Derivatives, chain rule, product rule, exponentials. | 2.5h | |
+| 5 | 3B1B Essence of Calculus: Ch 6-11. Integration, higher-order derivatives, Taylor series. | 2.5h | |
+| 6 | Python NumPy crash course. Practice: matrix ops, broadcasting, reshaping. Write a simple dot product + gradient by hand. | 2.5h | |
+
+**What you need to remember for Karpathy's course:**
+- **Vectors & matrices**: What they are, how to multiply them (this is ALL of neural networks)
+- **Dot product**: How two vectors combine to produce a single number (this is attention)
+- **Derivatives & chain rule**: How small changes propagate (this is backpropagation)
+- **Softmax**: Turning numbers into probabilities (watch for this in Week 3)
+
+> Don't stress about mastering everything. The goal is *recognition* -- when Karpathy says "we take the dot product of Q and K", you should think "oh, that's multiplying two vectors" rather than being lost.
+
+**Phase 0 Checkpoint:** Can multiply matrices by hand, explain what a derivative measures, and use NumPy for basic array operations.
 
 ---
 
@@ -375,6 +408,9 @@ Actual researched durations of every resource in this plan:
 
 | Category | Resource | Link |
 |----------|----------|------|
+| Math Foundations | 3Blue1Brown - Essence of Linear Algebra | https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab |
+| Math Foundations | 3Blue1Brown - Essence of Calculus | https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr |
+| Math Foundations | Khan Academy - Matrices | https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices |
 | Transformers | Karpathy - Zero to Hero | https://karpathy.ai/zero-to-hero.html |
 | Transformers | 3Blue1Brown - Neural Networks | https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi |
 | Transformers | Attention Is All You Need | https://arxiv.org/abs/1706.03762 |
