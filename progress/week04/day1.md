@@ -1,10 +1,11 @@
 # Week 4 - Day 1
 
 **Phase:** Phase 2: Production RAG
-**Task:** RAGAS evaluation setup
-**Resource:** RAGAS docs
+**Task:** RAG Course Module 1 - Intro to RAG, architecture overview
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

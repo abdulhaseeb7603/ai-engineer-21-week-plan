@@ -1,10 +1,11 @@
 # Week 6 - Day 2
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** RAG vs fine-tuning comparison
-**Resource:** Analysis
+**Phase:** Phase 2: Production RAG
+**Task:** Build complete RAG pipeline with Chroma/Qdrant
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

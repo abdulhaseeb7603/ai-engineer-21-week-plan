@@ -1,10 +1,11 @@
 # Week 11 - Day 4
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation continued
-**Resource:** Build
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Write up fine-tuning project with eval results
+**Resource:** Documentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

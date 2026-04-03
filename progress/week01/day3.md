@@ -1,10 +1,11 @@
 # Week 1 - Day 3
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lecture 3 (makemore pt2) - MLP character-level model
+**Task:** Karpathy Makemore pt1 (1h57m) - Bigram model, torch.Tensor
 **Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

@@ -1,10 +1,11 @@
 # Week 12 - Day 5
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Launch - share on platforms
-**Resource:** Launch
+**Phase:** Phase 4: Agent Systems
+**Task:** Study MCP docs, understand architecture
+**Resource:** Anthropic MCP
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

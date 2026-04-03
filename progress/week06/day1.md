@@ -1,10 +1,11 @@
 # Week 6 - Day 1
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Hyperparameter experiments
-**Resource:** LoRA tuning
+**Phase:** Phase 2: Production RAG
+**Task:** Cross-encoder reranking with ms-marco-MiniLM-L-6-v2
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

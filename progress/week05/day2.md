@@ -1,10 +1,11 @@
 # Week 5 - Day 2
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** QLoRA and 4-bit quantization
-**Resource:** freeCodeCamp
+**Phase:** Phase 2: Production RAG
+**Task:** RAG Course Module 4 continued - Prompt engineering for RAG
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

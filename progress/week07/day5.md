@@ -1,10 +1,11 @@
 # Week 7 - Day 5
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Multi-step planning agent
-**Resource:** Implementation
+**Phase:** Phase 2: Production RAG
+**Task:** Write up RAG system as portfolio piece
+**Resource:** Documentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

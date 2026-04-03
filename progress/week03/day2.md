@@ -1,10 +1,11 @@
 # Week 3 - Day 2
 
-**Phase:** Phase 2: Production RAG
-**Task:** Chunking strategies deep dive
-**Resource:** Firecrawl guide
+**Phase:** Phase 1: Transformer Internals
+**Task:** Lets Build GPT - second half, train mini-GPT
+**Resource:** Karpathy
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

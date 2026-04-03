@@ -1,10 +1,11 @@
 # Week 10 - Day 3
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Prometheus + Grafana monitoring
-**Resource:** Monitoring
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Try different target modules, document impact on quality
+**Resource:** Experimentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

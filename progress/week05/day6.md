@@ -1,10 +1,11 @@
 # Week 5 - Day 6
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** RLHF and DPO concepts
-**Resource:** Activeloop
+**Phase:** Phase 2: Production RAG
+**Task:** Implement hybrid search (dense + sparse with RRF)
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

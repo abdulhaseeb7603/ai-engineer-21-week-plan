@@ -1,10 +1,11 @@
 # Week 9 - Day 2
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Golden test set (100 examples) + RAGAS
-**Resource:** Evaluation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: Advanced topics, evaluation, deployment
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

@@ -1,10 +1,11 @@
 # Week 6 - Day 4
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Deploy fine-tuned model with FastAPI
-**Resource:** Deployment
+**Phase:** Phase 2: Production RAG
+**Task:** Set up RAGAS evaluation metrics
+**Resource:** RAGAS docs
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

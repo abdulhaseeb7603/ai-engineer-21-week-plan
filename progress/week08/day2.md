@@ -1,10 +1,11 @@
 # Week 8 - Day 2
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Guardrails - validation, filtering, injection detection
-**Resource:** Security
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: PEFT foundations, LoRA math
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

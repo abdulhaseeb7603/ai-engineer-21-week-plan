@@ -1,10 +1,11 @@
 # Week 8 - Day 6
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Write up agent project
-**Resource:** Documentation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: Hands-on fine-tuning walkthrough (part 2)
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

@@ -1,10 +1,11 @@
 # Week 7 - Day 4
 
-**Phase:** Phase 4: Agent Systems
-**Task:** MCP - Build simple MCP server
-**Resource:** Anthropic MCP
+**Phase:** Phase 2: Production RAG
+**Task:** Query routing + error handling for retrieval failures
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

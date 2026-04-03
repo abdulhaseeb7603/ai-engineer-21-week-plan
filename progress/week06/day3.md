@@ -1,10 +1,11 @@
 # Week 6 - Day 3
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Model merging concepts
-**Resource:** LoRA adapters
+**Phase:** Phase 2: Production RAG
+**Task:** Add metadata filtering, test with different document types
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

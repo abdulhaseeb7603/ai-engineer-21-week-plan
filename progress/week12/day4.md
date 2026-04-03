@@ -1,10 +1,11 @@
 # Week 12 - Day 4
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Polish - blog post
-**Resource:** Launch
+**Phase:** Phase 4: Agent Systems
+**Task:** Add tool use: web search, code exec, calculator + failure handling
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

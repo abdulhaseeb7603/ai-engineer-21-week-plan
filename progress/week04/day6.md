@@ -1,10 +1,11 @@
 # Week 4 - Day 6
 
 **Phase:** Phase 2: Production RAG
-**Task:** Write up RAG portfolio piece
-**Resource:** Documentation
+**Task:** RAG Course Module 3 continued - Chunking, reranking
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

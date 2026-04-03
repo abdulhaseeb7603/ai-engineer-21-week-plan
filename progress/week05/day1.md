@@ -1,10 +1,11 @@
 # Week 5 - Day 1
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** PEFT foundations - LoRA math
-**Resource:** freeCodeCamp
+**Phase:** Phase 2: Production RAG
+**Task:** RAG Course Module 4 - Transformer review, LLM sampling
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

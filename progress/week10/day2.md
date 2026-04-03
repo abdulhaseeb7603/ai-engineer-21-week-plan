@@ -1,10 +1,11 @@
 # Week 10 - Day 2
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Kubernetes basics - deploy to K8s
-**Resource:** K8s
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Hyperparameter experiments - LoRA ranks (8, 16, 32)
+**Resource:** Experimentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

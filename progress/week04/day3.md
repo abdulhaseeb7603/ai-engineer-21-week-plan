@@ -1,10 +1,11 @@
 # Week 4 - Day 3
 
 **Phase:** Phase 2: Production RAG
-**Task:** Chunking experiments + RAGAS measurement
-**Resource:** Evaluation
+**Task:** RAG Course Module 2 - Retriever architecture, BM25
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

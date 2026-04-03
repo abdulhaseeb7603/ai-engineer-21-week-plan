@@ -1,10 +1,11 @@
 # Week 1 - Day 5
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lecture 5 (makemore pt4) - Manual backprop
+**Task:** Karpathy Makemore pt2 MLP (1h15m) - MLP character model
 **Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

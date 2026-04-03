@@ -1,10 +1,11 @@
 # Week 2 - Day 5
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Hugging Face Transformers - Run inference
-**Resource:** HF Docs
+**Task:** Review and consolidation - re-implement micrograd from memory
+**Resource:** Review
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

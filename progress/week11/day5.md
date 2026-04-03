@@ -1,10 +1,11 @@
 # Week 11 - Day 5
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Evaluation harness - golden test set, RAGAS
-**Resource:** Build
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Polish project README, push to GitHub
+**Resource:** Documentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

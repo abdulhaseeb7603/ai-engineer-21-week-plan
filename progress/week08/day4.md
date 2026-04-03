@@ -1,10 +1,11 @@
 # Week 8 - Day 4
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Persistent memory with vector store
-**Resource:** Implementation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: Training setup, hyperparameters, data formatting
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

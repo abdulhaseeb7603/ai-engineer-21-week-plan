@@ -1,10 +1,11 @@
 # Week 9 - Day 1
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Langfuse self-hosted setup
-**Resource:** Docker
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: RLHF and DPO concepts, alignment methods
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

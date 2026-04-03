@@ -1,10 +1,11 @@
 # Week 4 - Day 5
 
 **Phase:** Phase 2: Production RAG
-**Task:** Query routing + error handling
-**Resource:** Implementation
+**Task:** RAG Course Module 3 - ANN algorithms, vector databases
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

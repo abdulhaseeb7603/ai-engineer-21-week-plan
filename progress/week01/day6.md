@@ -1,10 +1,11 @@
 # Week 1 - Day 6
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lecture 6 (WaveNet) - Deeper network, torch.nn internals
+**Task:** MLP - finish implementation, learning rate experiments
 **Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

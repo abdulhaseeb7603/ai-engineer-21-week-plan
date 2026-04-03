@@ -1,10 +1,11 @@
 # Week 2 - Day 6
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Consolidation - Rewrite attention from memory
-**Resource:** Review
+**Task:** Complete Karpathy exercises from lectures 1-6
+**Resource:** Exercises
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

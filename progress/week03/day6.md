@@ -1,10 +1,11 @@
 # Week 3 - Day 6
 
-**Phase:** Phase 2: Production RAG
-**Task:** Build complete RAG pipeline with Chroma/Qdrant
-**Resource:** Implementation
+**Phase:** Phase 1: Transformer Internals
+**Task:** Consolidation - rewrite attention from memory, draw architecture
+**Resource:** Review
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

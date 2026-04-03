@@ -1,10 +1,11 @@
 # Week 9 - Day 3
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** LLM-as-judge evaluators
-**Resource:** Langfuse
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Dataset prep - curate 500-1000 instruction-response pairs
+**Resource:** Dataset curation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

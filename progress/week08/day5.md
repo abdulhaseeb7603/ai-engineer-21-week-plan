@@ -1,10 +1,11 @@
 # Week 8 - Day 5
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Deploy agent as production service
-**Resource:** Deployment
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: Hands-on fine-tuning walkthrough (part 1)
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

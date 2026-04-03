@@ -1,10 +1,11 @@
 # Week 7 - Day 3
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Tool use - web search, code exec, calculator
+**Phase:** Phase 2: Production RAG
+**Task:** Implement sentence-window and auto-merging retrieval
 **Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

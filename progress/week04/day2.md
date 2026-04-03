@@ -1,10 +1,11 @@
 # Week 4 - Day 2
 
 **Phase:** Phase 2: Production RAG
-**Task:** Golden test set (50+ QA pairs)
-**Resource:** Dataset creation
+**Task:** RAG Course Module 1 continued - Python setup, LLM calls
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

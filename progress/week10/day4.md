@@ -1,10 +1,11 @@
 # Week 10 - Day 4
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** CI/CD with GitHub Actions
-**Resource:** DevOps
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** RAG vs fine-tuning comparison - quality, latency, cost
+**Resource:** Analysis
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

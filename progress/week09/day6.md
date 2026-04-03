@@ -1,10 +1,11 @@
 # Week 9 - Day 6
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Systematic debugging course
-**Resource:** DeepLearning.AI
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Debug training run, monitor loss curves, run to completion
+**Resource:** Hands-on
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

@@ -1,10 +1,11 @@
 # Week 5 - Day 3
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Dataset prep - 500-1000 instruction pairs
-**Resource:** Dataset curation
+**Phase:** Phase 2: Production RAG
+**Task:** RAG Course Module 5 - RAG evaluation strategies
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

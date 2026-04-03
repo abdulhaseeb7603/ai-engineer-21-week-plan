@@ -1,10 +1,11 @@
 # Week 4 - Day 4
 
 **Phase:** Phase 2: Production RAG
-**Task:** Langfuse tracing - latency, tokens, cost
-**Resource:** Langfuse
+**Task:** RAG Course Module 2 continued - Semantic search, hybrid search
+**Resource:** DeepLearning.AI Coursera
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

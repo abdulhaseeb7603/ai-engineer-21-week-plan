@@ -1,10 +1,11 @@
 # Week 9 - Day 5
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** A/B testing for prompts
-**Resource:** Evaluation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Fine-tune Llama 3 8B with LoRA using trl + Unsloth
+**Resource:** Hands-on
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

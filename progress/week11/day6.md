@@ -1,10 +1,11 @@
 # Week 11 - Day 6
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Evaluation harness - Langfuse, cost tracking
-**Resource:** Build
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Review Phases 1-3, start applying to jobs
+**Resource:** Review + Job search
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

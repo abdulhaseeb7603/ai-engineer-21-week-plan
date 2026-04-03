@@ -1,10 +1,11 @@
 # Week 3 - Day 4
 
-**Phase:** Phase 2: Production RAG
-**Task:** Cross-encoder reranking
-**Resource:** Implementation
+**Phase:** Phase 1: Transformer Internals
+**Task:** GPT Tokenizer (2h13m) - first half, BPE
+**Resource:** Karpathy
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

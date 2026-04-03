@@ -1,10 +1,11 @@
 # Week 2 - Day 2
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lets Build GPT (second half) - Train mini-GPT
-**Resource:** Karpathy
+**Task:** Makemore pt3 - second half, Batch Normalization
+**Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

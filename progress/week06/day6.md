@@ -1,10 +1,11 @@
 # Week 6 - Day 6
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Write up fine-tuning project
-**Resource:** Documentation
+**Phase:** Phase 2: Production RAG
+**Task:** Chunking experiments + measure RAGAS impact
+**Resource:** Evaluation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

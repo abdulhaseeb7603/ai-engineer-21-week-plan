@@ -1,10 +1,11 @@
 # Week 7 - Day 6
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Langfuse observability for agent
-**Resource:** Observability
+**Phase:** Phase 2: Production RAG
+**Task:** Polish RAG project README with architecture diagrams, push to GitHub
+**Resource:** Documentation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

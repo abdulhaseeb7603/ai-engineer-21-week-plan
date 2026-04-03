@@ -1,10 +1,11 @@
 # Week 12 - Day 6
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Update portfolio + final review
-**Resource:** Launch
+**Phase:** Phase 4: Agent Systems
+**Task:** Build simple MCP server, connect to LangGraph agent
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

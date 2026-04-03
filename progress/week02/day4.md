@@ -1,10 +1,11 @@
 # Week 2 - Day 4
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Tokenization - BPE
-**Resource:** Karpathy
+**Task:** Karpathy WaveNet (56m) - Deeper network, torch.nn internals
+**Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

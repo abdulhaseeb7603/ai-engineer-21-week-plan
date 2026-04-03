@@ -1,10 +1,11 @@
 # Week 11 - Day 2
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Architecture + CI/CD continued
-**Resource:** Build
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Optimize inference with vLLM or TGI, benchmark
+**Resource:** Deployment
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

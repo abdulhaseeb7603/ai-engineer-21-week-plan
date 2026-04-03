@@ -1,10 +1,11 @@
 # Week 11 - Day 3
 
-**Phase:** Phase 6: Capstone Project
-**Task:** Core implementation
-**Resource:** Build
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Push model to HF Hub with proper model card
+**Resource:** Hugging Face
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

@@ -1,10 +1,11 @@
 # Week 8 - Day 1
 
-**Phase:** Phase 4: Agent Systems
-**Task:** PydanticAI vs LangGraph comparison
-**Resource:** Framework comparison
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp fine-tuning (12h): LLM fundamentals, pretraining
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

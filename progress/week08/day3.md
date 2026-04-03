@@ -1,10 +1,11 @@
 # Week 8 - Day 3
 
-**Phase:** Phase 4: Agent Systems
-**Task:** Multi-agent system - research + writing agents
-**Resource:** Implementation
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** freeCodeCamp: QLoRA and 4-bit quantization
+**Resource:** freeCodeCamp
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

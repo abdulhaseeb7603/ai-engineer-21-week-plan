@@ -1,10 +1,11 @@
 # Week 3 - Day 1
 
-**Phase:** Phase 2: Production RAG
-**Task:** RAG course Module 1-2 - Retrieval fundamentals
-**Resource:** DeepLearning.AI
+**Phase:** Phase 1: Transformer Internals
+**Task:** Lets Build GPT (1h56m) - first half, self-attention
+**Resource:** Karpathy
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

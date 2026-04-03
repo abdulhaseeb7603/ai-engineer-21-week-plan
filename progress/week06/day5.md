@@ -1,10 +1,11 @@
 # Week 6 - Day 5
 
-**Phase:** Phase 3: LLM Fine-Tuning
-**Task:** Push model to HF Hub with model card
-**Resource:** Hugging Face
+**Phase:** Phase 2: Production RAG
+**Task:** Create golden test set (50+ QA pairs), establish baselines
+**Resource:** Dataset creation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

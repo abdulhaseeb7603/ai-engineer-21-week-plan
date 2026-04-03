@@ -1,10 +1,11 @@
 # Week 7 - Day 1
 
-**Phase:** Phase 4: Agent Systems
-**Task:** ReAct pattern - manual implementation
-**Resource:** From scratch
+**Phase:** Phase 2: Production RAG
+**Task:** Add Langfuse tracing - latency, token usage, cost per query
+**Resource:** Langfuse
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

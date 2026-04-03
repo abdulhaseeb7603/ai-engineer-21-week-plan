@@ -1,10 +1,11 @@
 # Week 1 - Day 1
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lecture 1 (micrograd) - Build autograd engine
+**Task:** Karpathy Micrograd (first half) - backprop basics
 **Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

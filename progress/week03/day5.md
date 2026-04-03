@@ -1,10 +1,11 @@
 # Week 3 - Day 5
 
-**Phase:** Phase 2: Production RAG
-**Task:** RAG course Module 3-4 - Agentic RAG
-**Resource:** DeepLearning.AI
+**Phase:** Phase 1: Transformer Internals
+**Task:** GPT Tokenizer - second half + HF Transformers inference
+**Resource:** Karpathy + HF
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

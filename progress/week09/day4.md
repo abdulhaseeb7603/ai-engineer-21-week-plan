@@ -1,10 +1,11 @@
 # Week 9 - Day 4
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Cost-per-request dashboard
-**Resource:** Monitoring
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Dataset prep continued - format data, quality review
+**Resource:** Dataset curation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

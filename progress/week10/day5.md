@@ -1,10 +1,11 @@
 # Week 10 - Day 5
 
-**Phase:** Phase 5: LLMOps & Evaluation
-**Task:** Concept drift detection
-**Resource:** Monitoring
+**Phase:** Phase 3: LLM Fine-Tuning
+**Task:** Model merging - combine LoRA adapters, merge into base
+**Resource:** Implementation
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 

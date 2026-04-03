@@ -1,10 +1,11 @@
 # Week 1 - Day 4
 
 **Phase:** Phase 1: Transformer Internals
-**Task:** Lecture 4 (makemore pt3) - Activations, gradients, BatchNorm
+**Task:** Makemore pt1 - finish coding, experiment
 **Resource:** Karpathy Zero to Hero
+**Target Time:** 2.5h
 **Date:**
-**Time Spent:** /2h
+**Actual Time Spent:**
 
 ## What I Learned
 
